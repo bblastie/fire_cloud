@@ -3,6 +3,8 @@ This is a basic enumeration script to identify AWS Cloud Resources by taking in 
 
 Some services, like S3, have some quick basic checks to help move along your recon against cloud facing assets. 
 
+This was originally an integration to the [ars0n-framework](https://github.com/R-s0n/ars0n-framework/blob/main/toolkit/toolkit/fire-cloud.py)
+
 ## Install requirements
 `pip install -r requirements.txt`
 

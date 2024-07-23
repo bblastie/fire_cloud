@@ -11,7 +11,9 @@ Some services, like S3, have some quick basic checks to help move along your rec
 
 ## Optional params
 `-e` - will perform an nmap scan against any detected EC2 instances and save output in the current directory
+
 `-s` - will download any files stored on an S3 bucket that is open **Use with caution** 
+
 `-u` - will try to upload a file with a random UUID name to detected buckets 
 
 ## Disclosure
